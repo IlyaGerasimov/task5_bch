@@ -239,4 +239,4 @@ def gen(n, p):
     print("\nFull Decode information has been written in {}".format(path))
 
 
-gen(15, 0.01)
+# gen(15, 0.01)
